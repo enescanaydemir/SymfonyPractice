@@ -40,6 +40,9 @@
             "./migrations/.gitignore"
         ]
     },
+    "friendsofsymfony/user-bundle": {
+        "version": "v2.2.4"
+    },
     "phpunit/phpunit": {
         "version": "10.0",
         "recipe": {
